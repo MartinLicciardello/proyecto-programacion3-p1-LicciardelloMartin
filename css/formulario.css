@@ -1,0 +1,26 @@
+/* Estilo formulario */
+
+.form-section {
+    height: 75vh; 
+    display: flex; 
+    justify-content: center; 
+    align-items: center; 
+    background-image: url('https://wallpapers.com/images/hd/planes-4k-ultra-hd-o7va4ii7sm5ccfpx.jpg'); 
+    background-size: cover;
+    background-position: center; 
+    background-repeat: no-repeat; 
+}
+
+form {
+    width: 300px; 
+    background-color: rgba(255, 255, 255, 0.8); 
+    padding: 20px; 
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); 
+    border-radius: 8px; 
+}
+
+.formulario-titulo{
+    font-size: 22px;
+    background-color: rgb(154, 128, 179);
+    color: black;
+}
